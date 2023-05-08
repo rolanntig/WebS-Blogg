@@ -1,0 +1,41 @@
+*{
+    margin:0;
+}
+
+.btn{
+    background-color: #1976d2;
+    border:1px solid black;
+    border-radius:2px;
+    width:100%;
+    color:white;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+}
+
+.Login_form input {
+    display:flex;
+    flex-direction:column;
+} 
+
+.Login_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;  
+}
+
+.Register_form input {
+    display:flex;
+    flex-direction:column;
+} 
+
+.Register_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

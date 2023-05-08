@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:10px;
+}
+
+nav{
+    display:flex;
+    justify-content: flex-end;
+    gap:10px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    position:sticky;
+}
+
+nav a{
+    text-decoration: none;
+    color:white;
+    border: 1px solid black;
+    background-color: #1976d2;
+    border-radius: 2px;
+}
+
+nav h3{
+    margin-right:auto;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
